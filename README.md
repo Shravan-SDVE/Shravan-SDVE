@@ -33,9 +33,9 @@ Outside of work: 🏏 Cricket · 📚 Reading · ✨ Astrology · 🌌 Understan
 
 ## 📌 Featured Projects
 
-| **SQL Advanced Analytics** | Wrote advanced, performance-tuned SQL (window functions, CTEs, materialized views) to solve real-world analytics problems — cohort analysis, running totals, YoY/MoM trend calculations, and ranking/segmentation queries over large datasets | SQL Server, Materialized Views | https://github.com/Shravan-SDVE/SQL_Advanced_Data_Analytics |
+**SQL Advanced Analytics** - Wrote advanced, performance-tuned SQL (window functions, CTEs, materialized views) to solve real-world analytics problems — cohort analysis, running totals, YoY/MoM trend calculations, and ranking/segmentation queries over large datasets | SQL Server, Materialized Views | [https://github.com/Shravan-SDVE/SQL_Advanced_Data_Analytics] 
 
-| **Sales & Marketing Data Modeling** | Redesigned a fragmented 23-table raw dataset into a governed star schema in Power BI, resolving broken keys, duplicate tables, and data-quality issues. Designed fact and dimension tables using junk dimension, factless fact, and accumulating snapshot patterns; traced and fixed a real duplicate-key data bug during the build; implemented row-level security for role-based reporting access. | Power BI, DAX, Power Query, SQL | [https://github.com/Shravan-SDVE/Sales_-_Marketing_Data_Modelling] |
+ **Sales & Marketing Data Modeling** - Redesigned a fragmented 23-table raw dataset into a governed star schema in Power BI, resolving broken keys, duplicate tables, and data-quality issues. Designed fact and dimension tables using junk dimension, factless fact, and accumulating snapshot patterns; traced and fixed a real duplicate-key data bug during the build; implemented row-level security for role-based reporting access. | Power BI, DAX, Power Query, SQL | [https://github.com/Shravan-SDVE/Sales_-_Marketing_Data_Modelling] 
       
 ## 🔭 What I'm Currently Working On 
 
