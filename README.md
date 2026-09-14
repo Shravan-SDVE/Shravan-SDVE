@@ -12,10 +12,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Senior Business Intelligence Engineer With 9+ years in IT and 7+ years specializing in Power BI and Business Intelligence,
-I'm passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+Results-driven **Senior Business Intelligence Engineer** with **9+ years in IT** and **7+ years specializing in Power BI & enterprise analytics**. I've supported **10+ enterprise clients and 2,500+ active users** across **14 diverse data sources**, turning messy, complex datasets into dashboards that leaders actually use to make decisions.
 
-When I'm not working with data, I enjoy Playing Cricket, Reading Books, Astrology, Understanding Cosmos. I love the "aha!" moment when data reveals something new and useful.
+I design end-to-end BI solutions — from data modeling and DAX to CI/CD analytics, ITSM telemetry, and AI-adoption tracking — and I love that "aha!" moment when data reveals something new.
+
+Outside of work: 🏏 Cricket · 📚 Reading · ✨ Astrology · 🌌 Understanding the Cosmos
 
 #### 🛠️ Tech Stack & Skills
 * *Business Intelligence & Visualization:* Power BI, DAX, Power Query, Tabular Models
@@ -30,8 +31,11 @@ When I'm not working with data, I enjoy Playing Cricket, Reading Books, Astrolog
 * *Infrastructure & Automation:* Modeled ServiceNow incident/change management workflows and data center decommissioning metrics across global regions.
 * *Leadership & Strategy:* Agile Scrum Master leading development teams, driving requirement sign-offs, workspace architecture, and governance practices.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+## 📌 Featured Projects
+
+| **SQL Advanced Analytics** | Wrote advanced, performance-tuned SQL (window functions, CTEs, materialized views) to solve real-world analytics problems — cohort analysis, running totals, YoY/MoM trend calculations, and ranking/segmentation queries over large datasets | SQL Server, Materialized Views | https://github.com/Shravan-SDVE/SQL_Advanced_Data_Analytics |
+
+| **Sales & Marketing Data Modeling** | Redesigned a fragmented 23-table raw dataset into a governed star schema in Power BI, resolving broken keys, duplicate tables, and data-quality issues. Designed fact and dimension tables using junk dimension, factless fact, and accumulating snapshot patterns; traced and fixed a real duplicate-key data bug during the build; implemented row-level security for role-based reporting access. | Power BI, DAX, Power Query, SQL | [https://github.com/Shravan-SDVE/Sales_-_Marketing_Data_Modelling] |
       
 ## 🔭 What I'm Currently Working On 
 
