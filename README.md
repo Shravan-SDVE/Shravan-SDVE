@@ -35,8 +35,8 @@ When I'm not working with data, I enjoy Playing Cricket, Reading Books, Astrolog
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+  Claude integration with Power BI for automated Report generation 
+<!-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]-->
 <!-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.] -->
 
 ## 🌱 Currently Learning 
