@@ -20,8 +20,8 @@ Outside of work: 🏏 Cricket · 📚 Reading · ✨ Astrology · 🌌 Understan
 
 #### 🛠️ Tech Stack & Skills
 * *Business Intelligence & Visualization:* Power BI, DAX, Power Query, Tabular Models
-* *Data Engineering & Querying:* SQL, Spark SQL, Azure Synapse
-* *Cloud & DevOps Integration:* Azure Cloud, Azure DevOps (CI/CD), ServiceNow, Incorta,SSMS
+* *Data Engineering & Querying:* SQL, Azure Synapse
+* *Cloud & DevOps Integration:* Azure Cloud, Azure DevOps, ServiceNow, Incorta,SSMS
 * *AI & Automation Tools:* M365 Copilot, GitHub Copilot
 
 #### ⚡ Core Experience & Achievements
