@@ -42,8 +42,8 @@ When I'm not working with data, I enjoy Playing Cricket, Reading Books, Astrolog
 ## 🌱 Currently Learning 
 
 - DataBricks
-- Pyspark
-- Microsoft Fabric
+<!--  Pyspark -->
+<!--  Microsoft Fabric* -->
 
 <!-- ## 🛠️ Technical Skillset -->
 
