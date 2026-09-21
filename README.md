@@ -22,7 +22,7 @@ Outside of work: 🏏 Cricket · 📚 Reading · ✨ Astrology · 🌌 Understan
 * *Business Intelligence & Visualization:* Power BI, DAX, Power Query, Tabular Models
 * *Data Engineering & Querying:* SQL, Azure Synapse
 * *Cloud & DevOps Integration:* Azure Cloud, Azure DevOps, ServiceNow, Incorta,SSMS
-* *AI & Automation Tools:* M365 Copilot, GitHub Copilot
+* *AI Tools:* M365 Copilot, GitHub Copilot
 
 #### ⚡ Core Experience & Achievements
 * *Enterprise Reporting:* End-to-end design and delivery of operational and executive dashboards across diverse business domains.
